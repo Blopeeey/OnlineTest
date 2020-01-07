@@ -1,4 +1,7 @@
 {
+    "easycorp/easy-deploy-bundle": {
+        "version": "v1.0.5"
+    },
     "php": {
         "version": "7.3"
     },
@@ -50,6 +53,9 @@
     },
     "symfony/event-dispatcher-contracts": {
         "version": "v1.1.7"
+    },
+    "symfony/expression-language": {
+        "version": "v4.4.2"
     },
     "symfony/filesystem": {
         "version": "v4.4.2"
@@ -109,6 +115,9 @@
     },
     "symfony/polyfill-php73": {
         "version": "v1.13.1"
+    },
+    "symfony/process": {
+        "version": "v4.4.2"
     },
     "symfony/routing": {
         "version": "4.2",
